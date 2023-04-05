@@ -4,7 +4,7 @@ This repo contains Geometry nodes generating the images shown below. Most scenes
 
 ## Logo to Star Looping Animation
 
-![screenshot](./GIFs/Logo to Star.gif)
+![screenshot](https://github.com/Siya-33/BlenderGeometryNodes/blob/main/GIFs/Logo%20to%20Star.gif)
 <img src="/GIFs/Logo to Star.gif">
 
 Inspired by the [animation](https://twitter.com/gregjoz/status/1562477072701800449) created by Greg Joswiak shown at the Far Out Apple event.
